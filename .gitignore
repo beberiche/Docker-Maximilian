@@ -128,3 +128,6 @@ dist
 
 # env
 *.env
+
+# pem
+*.pem
